@@ -1,6 +1,3 @@
-/* Programa que Calcula os juros de uma compra, Ultilizando Funçao*/
-
-
 function aplicarDesconto(valor, desconto){
     return (valor - (valor * (desconto / 100)));
 }
@@ -22,7 +19,7 @@ if ( pagamento === 1 ){
     console.log(aplicarJuros (precoEtiqueta, 10));
 }
 
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 /*
        Possiveis Alterações!!!!!
 
